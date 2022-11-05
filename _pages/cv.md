@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="../files/Qureshi_Waqas.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 Education
 ======
 * B.E. in Computer Engineering, Mumbai University, 2023 (expected)
